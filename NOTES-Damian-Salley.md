@@ -32,3 +32,13 @@ The first iteration would focus on creating the basic StudyFlow application wher
 
 Iteration 2 – StudyFlow:
 The second iteration would allow users to open a study board and add subject or topic headers to organise their different study areas. This feature would be developed and tested using what was learned from the first iteration before moving on to further features such as study topic cards.
+
+
+
+
+
+Reflection 1:
+Yes. Choosing a specific domain gave me a deeper understanding and more context for the application. Once I changed the generic Board → Column → Card structure into Subject → Chapter → Topic, it became easier to understand what the application should do. This allowed me to think more deeply about the features and plan the application more effectively.
+
+Reflection 2:
+I think receiving feedback too late would hurt my project the most. If I developed the application for weeks before showing it to the users, I could discover that what I built does not meet their needs. This could set the project back by weeks because parts of the application may need to be changed or rebuilt, making it more expensive and time-consuming.
