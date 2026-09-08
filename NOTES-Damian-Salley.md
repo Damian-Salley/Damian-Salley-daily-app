@@ -87,3 +87,15 @@ The Scrum artifact I would be most likely to skip is the Product Backlog. When I
 The cost of skipping the Product Backlog is that I could lose track of features that still need to be developed and may spend time working on less important features before more important ones. Keeping the Product Backlog updated would help me organise and prioritise my work instead of developing features as soon as I think of them.
 
 
+
+
+
+
+### NOTES Updates
+
+#### 1. The role I'll neglect
+My answer has not changed. I still think the Scrum Master role would be the one I am most likely to neglect. When I am busy, I would probably focus more on completing the development work than making sure I follow every part of the Scrum process. Using a Scrum checklist would help me make sure I don't neglect these responsibilities.
+
+
+#### 2. What DoR actually filtered out
+My Definition of Ready filtered out the Create a Chapter backlog item. I originally wanted to include it in Sprint 1, but it did not have enough detail to meet my Definition of Ready. This helped stop me from jumping ahead to additional work while I was still focused on the Subject Management features for Sprint 1. It also ensures that the Create a Chapter feature is properly defined before I begin working on it.
