@@ -42,3 +42,48 @@ Yes. Choosing a specific domain gave me a deeper understanding and more context 
 
 Reflection 2:
 I think receiving feedback too late would hurt my project the most. If I developed the application for weeks before showing it to the users, I could discover that what I built does not meet their needs. This could set the project back by weeks because parts of the application may need to be changed or rebuilt, making it more expensive and time-consuming.
+
+
+
+
+
+=====================================================================================================================================================
+
+
+
+## Assignment 2.2
+
+### Question 1 — Roles, Solo and Shared
+
+For TrackFlow, I think the instructor would be the Product Owner because they would help determine and prioritise what the application needs. A student could take the Scrum Master role and help the team follow the Scrum process, while the students would form the Development Team and work together to build the application.
+
+For my Daily App, I think the role I would be most likely to neglect is the Scrum Master. When I am busy, following every part of the Scrum process exactly could be challenging because I may focus more on completing the actual development work. Since I enjoy planning and executing my plans, I would use a Scrum checklist for each sprint to make sure I complete the Scrum activities and don't neglect the process.
+
+
+### Question 2 — Definition of Ready and Definition of Done
+
+For my first StudyFlow epic, Subject Management, my Definition of Ready would be:
+
+- The purpose of the feature is clearly defined.
+- The requirements explain specifically what the feature should do.
+- The required inputs and expected results are known.
+- Invalid inputs or situations that need to be handled are identified.
+- I have enough information to begin developing the feature without needing major clarification.
+
+My Definition of Done would be:
+
+- The feature has been fully implemented.
+- The feature works according to its requirements.
+- Different inputs and actions have been tested.
+- Invalid inputs have been tested and handled correctly.
+- Any errors discovered during testing have been fixed.
+- The feature can be used without known errors.
+
+
+### Question 3 — The Artifact Most at Risk
+
+The Scrum artifact I would be most likely to skip is the Product Backlog. When I think of a new feature or idea, I would be tempted to try and test it immediately instead of first adding it to the Product Backlog and deciding where it should be prioritised.
+
+The cost of skipping the Product Backlog is that I could lose track of features that still need to be developed and may spend time working on less important features before more important ones. Keeping the Product Backlog updated would help me organise and prioritise my work instead of developing features as soon as I think of them.
+
+
