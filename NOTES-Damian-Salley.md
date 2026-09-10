@@ -99,3 +99,33 @@ My answer has not changed. I still think the Scrum Master role would be the one 
 
 #### 2. What DoR actually filtered out
 My Definition of Ready filtered out the Create a Chapter backlog item. I originally wanted to include it in Sprint 1, but it did not have enough detail to meet my Definition of Ready. This helped stop me from jumping ahead to additional work while I was still focused on the Subject Management features for Sprint 1. It also ensures that the Create a Chapter feature is properly defined before I begin working on it.
+
+
+
+
+==================================================================================================================================================
+
+
+
+
+## Assignment 2.3
+
+### Question 1 — Choosing a view
+
+I would use the Board view as my primary day-to-day view because it would allow me to visually organise and keep track of the work on StudyFlow. I would use the Timeline view when planning deadlines and seeing when different activities need to be completed. The List view would be useful when I want a straightforward overview of the tasks that still need to be done.
+
+### Question 2 — Custom fields
+
+For my StudyFlow Asana project, I would use Priority and Status as custom fields. Priority would use High, Medium, and Low values and would allow me to filter tasks based on which development work needs attention first. Status would use Not Started, In Progress, and Completed and would allow me to filter tasks based on their current stage of development. I chose these fields because they would both help me make decisions or find specific tasks rather than adding information that I would not use.
+
+### Question 3 — Tag or field
+
+I would use needs-testing as a tag because it could be useful across different projects whenever a task still needs to be tested. I would use Priority as a custom field with structured values such as High, Medium, and Low. If I swapped them, Priority could become inconsistent because free-form tags could be created with different names for the same priority, while needs-testing would become unnecessary structured information instead of a simple reusable label.
+
+### Notes Updates
+
+1. Yes. Structuring the QuickNotes project first helped me understand how to organise tasks into sections and how custom fields, subtasks and dependencies could be used. This made it easier to structure StudyFlow because I already understood how I wanted to organise the work.
+
+2. Moving Sprint 1 into Asana made the amount of work easier to see. I would keep the current Sprint 1 scope because the four Subject Management tasks are focused on one part of StudyFlow and seem manageable together. I would not add Create a Chapter yet because it was not Ready when I created my Sprint 1 Backlog.
+
+3. At first I was not completely sure about the difference between a custom field and a tag. I decided that Priority and Status should be custom fields because they have specific structured values that I can use to filter my tasks. I used needs-testing as a tag because it is a simple label that could be reused across different projects.
