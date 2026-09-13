@@ -129,3 +129,104 @@ I would use needs-testing as a tag because it could be useful across different p
 2. Moving Sprint 1 into Asana made the amount of work easier to see. I would keep the current Sprint 1 scope because the four Subject Management tasks are focused on one part of StudyFlow and seem manageable together. I would not add Create a Chapter yet because it was not Ready when I created my Sprint 1 Backlog.
 
 3. At first I was not completely sure about the difference between a custom field and a tag. I decided that Priority and Status should be custom fields because they have specific structured values that I can use to filter my tasks. I used needs-testing as a tag because it is a simple label that could be reused across different projects.
+
+
+
+
+===================================================================================================================================================
+
+
+
+
+## Assignment 2.4
+
+### Question 1 — Rewrite Sprint 1 as Real User Stories
+
+1. **Create Subject**  
+   As a student, I want to create a subject, so that I can organise my study material by subject.
+
+2. **View Subjects**  
+   As a student, I want to view my subjects, so that I can keep track of my progress for each subject.
+
+3. **Rename Subject**  
+   As a student, I want to rename my subject, so that I can keep my subject names accurate and relevant to my studies.
+
+4. **Delete Subject**  
+   As a student, I want to delete a subject, so that I can remove subjects that are no longer relevant to my studies.
+
+5. **View Subject Progress**  
+   As a student, I want to view the study progress of a subject, so that I can see how much work I have completed and how much I still need to study.
+
+### Question 2 — Acceptance Criteria
+
+#### Create Subject
+- The student can enter a subject name.
+- The subject name cannot be empty.
+- The new subject is saved.
+- The new subject appears in the subject list.
+
+#### View Subjects
+- The student can see all subjects they have created.
+- Each subject displays the name that the student entered.
+- When a new subject is created, it appears in the subject list.
+- If there are no subjects, the student is informed that no subjects have been created.
+
+#### Rename Subject
+- The student can select an existing subject to rename.
+- The student can enter a new subject name.
+- After the name is changed, the new name is displayed.
+- If the student enters an empty name, the change is not saved and the original subject name remains.
+
+#### Delete Subject
+- The student can select an existing subject to delete.
+- The student is asked to confirm before the subject is deleted.
+- If the student confirms, the subject is removed from the subject list.
+- If the student cancels, the subject remains unchanged.
+
+#### View Subject Progress
+- The student can see the progress percentage for a subject.
+- When the student completes a study activity, the completed percentage increases.
+- As the completed percentage increases, the remaining percentage decreases.
+- When all study activities are completed, the subject displays 100% completed.
+
+### Question 3 — INVEST Check
+
+I evaluated the Delete Subject story:
+
+**Independent:** Not completely. A subject must already exist before it can be deleted. I would make the existing subject a precondition of the story. This makes the requirement clearer without significantly changing its scope.
+
+**Negotiable:** Yes. The story explains what the student needs without requiring one specific technical implementation.
+
+**Valuable:** Yes. It allows the student to remove subjects that are no longer relevant and keep their subjects organised.
+
+**Estimable:** Yes. The requirements and acceptance criteria are clear enough to estimate the amount of work required.
+
+**Small:** Yes. Deleting a subject is focused enough to be completed within a sprint.
+
+**Testable:** Yes. It can be tested by checking that confirmation appears, confirming removes the subject, and cancelling leaves the subject unchanged.
+
+### Question 4 — Estimating Alone
+
+I used Create Subject as my reference story and estimated it at 3 story points.
+
+- Create Subject — 3 points
+- View Subjects — 2 points
+- Rename Subject — 3 points
+- Delete Subject — 3 points
+- View Subject Progress — 5 points
+
+View Subject Progress surprised me the most because the original idea sounded simple, but after writing the full user story and acceptance criteria, I realised that the progress needs to be calculated and updated when study activities are completed. This makes it more complex than simply displaying information.
+
+### NOTES Updates
+
+#### 1. What changed between backlog phrase and real story?
+
+View Subject Progress changed how I understood the work. At first, viewing progress sounded like a simple feature. After writing the full user story and acceptance criteria, I realised that StudyFlow would also need to calculate and update the percentage when study activities are completed. The full story therefore made the actual amount of work clearer.
+
+#### 2. The retro, from the inside
+
+Pending the TrackFlow class retrospective.
+
+#### 3. Estimating with real stories vs. rough backlog items
+
+I felt more confident estimating the real user stories than the rough backlog items. The user stories and acceptance criteria gave me more information about what each feature actually needs to do. This made it easier to compare the complexity of the stories and give them story point estimates.
