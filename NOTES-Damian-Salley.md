@@ -293,3 +293,52 @@ StudyFlow Kickoff Presentation: https://docs.google.com/presentation/d/1g62QaGIR
 
 
 
+
+
+===================================================================================================================================================
+
+
+
+
+## Assignment 3.2
+
+### Question 1 — Beyond the Core Four
+
+I would add a **Tech Stack** section to the Team Directory README. This would show someone what technologies were used to build the application, such as C# and .NET. Leaving this section out could make it harder for someone who clones the repository to know what technologies and environment they need to run or continue developing the application.
+
+### Question 2 — Comment Audit
+
+In `Program.cs`, line 13 contains the comment:
+
+`//retrieve names from team.txt file and add them to the list`
+
+I think this comment is unnecessary because it mainly restates what the code on line 14 and the following loop already do.
+
+On line 14, `string[] names = File.ReadAllLines("team.txt");` could instead have a useful comment explaining why the team member data is stored separately in `team.txt` rather than being hard-coded into the program.
+
+### Question 3 — What Makes a Decision ADR-Worthy
+
+One technical decision I made in Team Directory was storing the team member data in `team.txt` instead of hard-coding the names in `Program.cs`. Although using the text file was originally an assignment requirement, I think the decision is worth documenting because it keeps the team member data separate from the program logic and keeps `Program.cs` focused more on the application's code.
+
+This is worth recording in an ADR because someone working on the project later may want to understand why the data is stored in a separate file instead of directly in the code.
+
+
+### NOTES Updates
+
+#### 1. What the Sample Exercise Revealed
+
+Doing the QuickNotes sample first made the real documentation easier because it gave me more context and a better understanding of the different types of technical documentation before I had to apply them to my own project.
+
+#### 2. The Comment I Was Wrong About
+
+I now think the "why" comment is better because it explains the reason behind the code instead of only describing what the code does. However, personally I would have kept a short explanation of what the code does as well because it can still be useful when reading code that I am unfamiliar with.
+
+#### 3. The Line Between Decision and Detail
+
+After writing a real ADR, I would document more technical decisions than I originally thought. Writing the ADR showed me that recording why a decision was made can help someone understand the project later, especially when there were different ways the feature could have been implemented.
+
+[Team Directory README] README.md link: https://github.com/Damian-Salley/team-directory/blob/main/README.md
+
+[Team Directory Function Documentation] team-directory-function.md link: https://github.com/Damian-Salley/team-directory/blob/main/docs/team-directory-function.md
+
+[Team Directory ADR] link: https://github.com/Damian-Salley/team-directory/blob/main/docs/decisions/001-store-team-data-in-text-file.md
