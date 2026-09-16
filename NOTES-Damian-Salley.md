@@ -230,3 +230,66 @@ Pending the TrackFlow class retrospective.
 #### 3. Estimating with real stories vs. rough backlog items
 
 I felt more confident estimating the real user stories than the rough backlog items. The user stories and acceptance criteria gave me more information about what each feature actually needs to do. This made it easier to compare the complexity of the stories and give them story point estimates.
+
+
+
+
+==================================================================================================================================================
+
+
+
+
+## Assignment 3.1
+
+### Question 1 — Suggesting Mode vs. Comments vs. Direct Edits
+
+I would use **direct editing** when I have permission to make a change and I know that the change is correct. For example, if there is an obvious spelling mistake in the StudyFlow Project Doc, I could correct it directly.
+
+I would use a **comment** when I don't understand something or need more context without changing the original content. For example, if I am unsure about part of the StudyFlow timeline, I could leave a comment asking for clarification.
+
+I would use **Suggesting mode** when I think something should be changed but want the person responsible for the document to decide whether to accept it. For example, I could suggest changing the StudyFlow goal to make the purpose of tracking study progress clearer.
+
+### Question 2 — Permissions, Deliberately
+
+For my StudyFlow Drive folder, I would give **myself Editor access** because I am responsible for developing the project and need to create and change the project files.
+
+I would give my **instructor Commenter access** because they need to review my work and provide feedback without directly changing my documents.
+
+I would give **other students or cohorts Viewer access** because they may need to see the project, but they do not need to change it or provide feedback.
+
+### Question 3 — Sync or Async?
+
+I would use **synchronous communication for goal-setting** because a live discussion allows the team to agree on the direction and goals of the project.
+
+I would handle **task assignments asynchronously** because responsibilities can be clearly recorded in a shared document or tracker without requiring a meeting.
+
+I would also use **asynchronous communication for normal status updates** because team members can update their progress without requiring everyone to attend a meeting.
+
+For **blocking questions**, I would use a live meeting when the issue is preventing progress and cannot be resolved quickly through comments or messages.
+
+### NOTES Updates
+
+#### 1. What the TidyUp Practice Revealed
+
+Creating the TidyUp kickoff package first gave me a better understanding of how the Google Workspace applications work together. When I moved on to StudyFlow, I already understood how to structure the Drive folders and how the Docs, Sheets, Slides and Calendar tools could be used together for the project.
+
+#### 2. The Permission I Almost Got Wrong
+
+There wasn't a point where I almost gave someone broader access than they needed. I understood that I should have Editor access because I am responsible for the project, my instructor should have Commenter access to provide feedback, and other students should only have Viewer access if they need to see the project.
+
+#### 3. Sync vs. Async, in Practice
+
+The sync and async split worked well during the mock kickoff. Goal-setting worked well synchronously because it gave the meeting a clear direction, while task assignments and normal status updates could be handled asynchronously using the shared project tools. Blocking questions could still be discussed synchronously when they prevent progress.
+
+#### Links:
+
+StudyFlow Kickoff Drive Folder: https://drive.google.com/drive/folders/1KBxk9VUPC_FHIeCcsz67fyXgFrbLCN4m
+
+StudyFlow Project Doc: https://docs.google.com/document/d/1fwohyiTqAvp3h99GYL25_nADGZ9eDnpQUGYvEu0-MD0/edit?tab=t.0
+
+StudyFlow Task Tracker: https://drive.google.com/drive/folders/1-e5MmOli0QFZelAEBXDpYNH9bMHyMhR8
+
+StudyFlow Kickoff Presentation: https://docs.google.com/presentation/d/1g62QaGIRyrtWeLZ9yHWVWxknuTFIZlxem85sulJsNxI/edit?slide=id.g3fb7d1775ff_0_134#slide=id.g3fb7d1775ff_0_134
+
+
+
