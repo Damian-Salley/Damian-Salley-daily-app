@@ -342,3 +342,116 @@ After writing a real ADR, I would document more technical decisions than I origi
 [Team Directory Function Documentation] team-directory-function.md link: https://github.com/Damian-Salley/team-directory/blob/main/docs/team-directory-function.md
 
 [Team Directory ADR] link: https://github.com/Damian-Salley/team-directory/blob/main/docs/decisions/001-store-team-data-in-text-file.md
+
+
+
+
+===================================================================================================================================================
+
+
+
+
+## Assignment 3.3
+
+### Question 1 — Channel Choice
+
+I needed to ask my instructor to review my StudyFlow Project Doc and provide feedback. I think email would have been the better channel because it is a more formal request and gives me space to clearly explain what I need and include the link to the document. I would make the message specific by stating that I need feedback on the Project Doc and providing the direct link instead of sending a vague request.
+
+### Question 2 — The Self-Check I Did or Skipped
+
+One blocker I had this week was getting a dropdown in Google Sheets to work correctly. Before asking for help, I checked the setup myself and tried different ways to fix the problem. I eventually managed to solve it myself. This showed me that checking the problem and trying possible solutions first can sometimes remove the need to ask someone else for help.
+
+### Question 3 — Specific vs. Vague Feedback
+
+**Specific feedback:**
+
+The Setup section of my StudyFlow Project Doc should include clearer step-by-step instructions so that someone unfamiliar with StudyFlow can follow it without needing extra help.
+
+**Vague feedback:**
+
+The Setup section needs work.
+
+**Difference:**
+
+The specific feedback is more useful because it tells me exactly what needs improvement and gives me a direction for how to improve it, while the vague feedback does not explain what I should change.
+
+## Part 2 — BudgetBuddy Scenario
+
+### Task 1 — Channel Rewrite
+
+**Slack:**
+
+Hi team, I'm having an issue with the budget sync feature. The budget data isn't syncing correctly. Could someone help me look into this?
+
+Email: xyz
+
+Subject: Export Feature for Current Sprint
+
+Hi team,
+I'd like to confirm whether the export feature is planned for the current sprint. Could we confirm whether it is included in our sprint scope before I start working on it?
+Thanks.
+
+### Task 2 — Question Rewrite
+
+I'm working on the BudgetBuddy budget totals and noticed that the displayed total does not match the sum of the category amounts.
+I checked the individual category values and recalculated the total, but the displayed result is still different.
+The problem occurs after the budget values are updated.
+Could someone help me check whether the issue is in the total calculation or in how the updated category values are being used?
+
+### Task 3 — PR Feedback
+
+The `updateBudget()` function is currently handling several responsibilities in one 40-line block, including validating the input, recalculating category totals, and updating the database.
+I suggest separating these responsibilities into smaller functions, such as one for validation and another for calculating the totals. This would make the code easier to read, test, and maintain.
+
+### Task 4 — Receiving Feedback
+
+Thanks for the feedback. I understand that the `updateBudget()` function is doing too many things in one place and that separating the responsibilities would make it easier to understand and maintain.
+Would you recommend keeping the database update inside `updateBudget()` and moving only the validation and calculation logic into separate functions?
+Thanks for pointing this out. I'll use the clarification to restructure the function.
+
+## Part 3 — Applying This to My Real Work
+
+### Task 5 — Real Help Request
+Hi, I'm working on the Google Sheets part of my StudyFlow Daily App and I'm having trouble getting one of the dropdowns to work correctly.
+I've checked the dropdown setup and tried changing the settings myself, but it still isn't behaving as expected.
+Could you please help me check whether I've configured the dropdown incorrectly or if there is something else in the sheet causing the problem?
+
+### Task 6 — Real PR Feedback
+I left feedback on the Future Sprint section of my StudyFlow Project Doc.
+My feedback was:
+"The Future Sprint section could be improved by adding a short priority or reason for each planned item. This would make it clearer which features should be worked on first and why."
+
+### Task 7 — Reflect on Real Feedback
+One piece of feedback I received this week was to edit my StudyFlow sprints and add a completion tab.
+The feedback was useful because it was specific about what needed to be changed rather than simply saying that my sprint planning needed improvement. I knew exactly what I needed to edit and what needed to be added.
+I responded by making the requested changes to my sprint setup and adding the completion tab.
+
+### Task 8 — Before/After a Real Message
+**Original message:**
+
+Can you check my StudyFlow project?
+
+**Rewritten message:**
+Hi, could you please review my StudyFlow project when you have a chance? I would specifically like feedback on whether my sprint setup is clear and whether there are any changes I should make.
+Here is the link to the project:
+https://docs.google.com/document/d/1fwohyiTqAvp3h99GYL25_nADGZ9eDnpQUGYvEu0-MD0/edit?tab=t.0
+
+**What changed and why:**
+The rewritten message gives more context and explains specifically what I would like feedback on. This makes it easier for the person receiving the message to understand what I need without having to ask additional questions.
+
+## NOTES Updates
+
+### 1. What the BudgetBuddy Practice Revealed
+Doing the BudgetBuddy practice first helped because it gave me more context and a better understanding of how to structure workplace communication before applying it to my own real messages. It also showed me how adding more context can make a message or question easier for someone else to understand and respond to.
+
+### 2. The Self-Check I Almost Skipped
+With the Google Sheets dropdown problem, I did not almost skip the self-check because I wanted to try solving the problem on my own first. I checked the setup and tried different solutions before asking for help, and I eventually managed to solve the problem myself.
+
+### 3. Giving Feedback on Something Real
+Giving feedback on my real StudyFlow work felt easier than the BudgetBuddy sample because I already understood my project and what I was trying to achieve. This made it easier to notice what could be improved and to give a specific suggestion.
+
+
+
+
+
+StudyFlow Project Doc: https://docs.google.com/document/d/1fwohyiTqAvp3h99GYL25_nADGZ9eDnpQUGYvEu0-MD0/edit?tab=t.0
